@@ -8,6 +8,6 @@ public class BasicController {
 
 	@GetMapping("/get")
 	public String getData() {
-		return "WelcomeToMyDemoSpringAPP";
+		return "Welcome To My Running SpringAPP";
 	}
 }
