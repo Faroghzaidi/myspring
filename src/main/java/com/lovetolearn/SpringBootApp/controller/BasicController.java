@@ -8,6 +8,6 @@ public class BasicController {
 
 	@GetMapping("/get")
 	public String getData() {
-		return "Welcome To My Running SpringAPP for Test Project";
+		return "Welcome To My Running SpringAPP for Test CI Jenkins";
 	}
 }
